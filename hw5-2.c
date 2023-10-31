@@ -5,7 +5,7 @@ int main()
 {
     int m;
     float s;
-    scanf("%d",&m);66
+    scanf("%d",&m);
     if(m<=800)
     {
         s=m*0.9;
